@@ -1,11 +1,11 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=czfadmin&layout=default)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=czfadmin&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=czfadmin&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![czfadmin's github stats](https://github-readme-stats.vercel.app/api?username=czfadmin&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
+![Czfadmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=czfadmin&show_icons=true)
 
 
 <!--
