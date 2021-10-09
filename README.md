@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently using C#,Go, Javacript/Typescript 
-- [React](https://reactjs.org/), [Redux](https://redux.js.org/),[Mobx](https://mobx.js.org/), [Vue](https://v3.vuejs.org/),[Svelte](https://www.sveltejs.cn/)
+- [React](https://reactjs.org/), [Redux](https://redux.js.org/),[Mobx](https://mobx.js.org/), [Vue](https://v3.vuejs.org/),[Svelte](https://www.sveltejs.cn/), Preact
 - I’m currently learning [Rust]() 
 <!-- 
 - 👯 I’m looking to collaborate on ...
