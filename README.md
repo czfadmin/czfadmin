@@ -1,15 +1,20 @@
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently using C#,Go,Javacript/Typescript,Kotlin
-- [React](https://reactjs.org/), [Redux](https://redux.js.org/),[Mobx](https://mobx.js.org/), [Vue](https://v3.vuejs.org/),[Svelte](https://www.sveltejs.cn/)
-- I’m currently learning [Rust]() and Adroid
+
+🌱 Languages and Tools:
+- Typescript/Javascript
+- C#
+- Go
+- Rust
+- Kotlin
+
+⚡ Fun fact: [React](https://reactjs.org/), [SolidJs](https://www.solidjs.com/),[Svelte](https://www.sveltejs.cn/), [Vue](https://v3.vuejs.org/),[Redux](https://redux.js.org/),[Mobx](https://mobx.js.org/), 
+- I’m currently learning `Rust` and `Android`
+- 📫 How to reach me: Twitter([abchen](https://twitter.com/abchen9527))
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-Languages and Tools:
 -->
 
 
