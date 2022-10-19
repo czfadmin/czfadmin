@@ -7,6 +7,19 @@
 - Rust
 - Kotlin
 
+🌍 Front-end skills
+- React
+- Svelte
+- Vue
+- NextJS
+
+💻 Backend skills
+- NestJS
+- Django
+
+📱 Mobile skills
+- Flutter
+
 ⚡ Fun fact: [React](https://reactjs.org/), [SolidJs](https://www.solidjs.com/),[Svelte](https://www.sveltejs.cn/), [Vue](https://v3.vuejs.org/),[Redux](https://redux.js.org/),[Mobx](https://mobx.js.org/), 
 - I’m currently learning `Rust` and `Android`
 - 📫 How to reach me: Twitter([abchen](https://twitter.com/abchen9527))
