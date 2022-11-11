@@ -6,6 +6,7 @@
 - Go
 - Rust
 - Kotlin
+- Dart
 
 🌍 Front-end skills
 - React
