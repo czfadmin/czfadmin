@@ -7,12 +7,15 @@
 - Rust
 - Kotlin
 - Dart
+- Python
 
 🌍 Front-end skills
 - React
 - Svelte
 - Vue
 - NextJS
+- SolidJS
+
 
 💻 Backend skills
 - NestJS
