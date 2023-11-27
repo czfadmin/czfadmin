@@ -1,10 +1,10 @@
 - 🔭 I’m currently working on ...
 
 🌱 Languages and Tools:
+- Rust
 - Typescript/Javascript
 - C#
 - Go
-- Rust
 - Kotlin
 - Dart
 - Python
@@ -12,10 +12,9 @@
 🌍 Front-end skills
 - React
 - Svelte
-- Vue
 - NextJS
 - SolidJS
-
+- Vue
 
 💻 Backend skills
 - NestJS
