@@ -17,6 +17,7 @@
 - Vue
 
 💻 Backend skills
+- Fastapi
 - NestJS
 - Django
 
