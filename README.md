@@ -8,6 +8,7 @@
 - Kotlin
 - Dart
 - Python
+- lua
 
 🌍 Front-end skills
 - React
