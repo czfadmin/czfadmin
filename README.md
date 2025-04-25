@@ -34,9 +34,9 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
-[![Top Langs](https://github-readme-stats-olive-phi.vercel.app/api/top-langs/?username=czfadmin&layout=compact)](https://github.com/czfadmin/github-readme-stats)
+[![Top Langs](https://github-readme-stats-czfadmin.vercel.app/api/top-langs/?username=czfadmin&layout=compact)](https://github.com/czfadmin/github-readme-stats)
 <br/>
-![czfadmin's GitHub stats](https://github-readme-stats-olive-phi.vercel.app/api?username=czfadmin&show_icons=true)
+![czfadmin's GitHub stats](https://github-readme-stats-czfadmin.vercel.app/api?username=czfadmin&show_icons=true)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
