@@ -1,8 +1,8 @@
 - 🔭 I’m currently working on ...
 
 🌱 Languages and Tools:
-- Rust
 - Typescript/Javascript
+- Rust
 - C#
 - Go
 - Kotlin
@@ -18,8 +18,10 @@
 - Vue
 
 💻 Backend skills
-- Fastapi
+- Elysiajs
 - NestJS
+- AdonisJS
+- Fastapi
 - Django
 
 📱 Mobile skills
